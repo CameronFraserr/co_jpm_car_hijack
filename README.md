@@ -67,7 +67,7 @@ Each full line is encoded using ROT47 - as hinted at in the question description
 ```
 
 <strong>Example Map Visual:</strong>
-![Map Plot Example](Screenshot from 2023-02-19 05-54-47.png)
+![Map Plot Example](./image.png)
 
 <strong>Example Code For Map Visual:</strong>
 ```python
